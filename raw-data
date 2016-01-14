@@ -1,0 +1,767 @@
+{
+    '2001': [{
+        edits: 124,
+        'ns': 0,
+        'id': 5326,
+        'title': 'Creationism'
+    }, {
+        'edits': 113,
+        'ns': 0,
+        'id': 25422,
+        'title': 'Deaths in 2003'
+    }, {
+        'edits': 80,
+        'ns': 0,
+        'id': 11185,
+        'title': 'Feminism'
+    }, {
+        'edits': 76,
+        'ns': 0,
+        'id': 15295,
+        'title': 'Intelligent design'
+    }, {
+        'edits': 62,
+        'ns': 0,
+        'id': 7272,
+        'title': 'Christianity and homosexuality'
+    }, {
+        'edits': 59,
+        'ns': 0,
+        'id': 16395,
+        'title': 'Judeo-Christian'
+    }, {
+        'edits': 53,
+        'ns': 0,
+        'id': 18996620,
+        'title': 'Opera (web browser)'
+    }, {
+        'edits': 53,
+        'ns': 0,
+        'id': 22657,
+        'title': 'Order of magnitude'
+    }, {
+        'edits': 49,
+        'ns': 0,
+        'id': 11283,
+        'title': 'Falsifiability'
+    }, {
+        'edits': 48,
+        'ns': 0,
+        'id': 13772,
+        'title': 'History of Poland'
+    }],
+    '2002': [{
+        'edits': 449,
+        'ns': 0,
+        'id': 15580374,
+        'title': 'Main Page'
+    }, {
+        'edits': 289,
+        'ns': 0,
+        'id': 43108,
+        'title': 'List of Canadians'
+    }, {
+        'edits': 267,
+        'ns': 0,
+        'id': 52547,
+        'title': u "Jehovah's Witnesses"
+    }, {
+        'edits': 266,
+        'ns': 0,
+        'id': 12,
+        'title': 'Anarchism'
+    }, {
+        'edits': 258,
+        'ns': 0,
+        'id': 25422,
+        'title': 'Deaths in 2003'
+    }, {
+        'edits': 237,
+        'ns': 0,
+        'id': 3414021,
+        'title': 'George W. Bush'
+    }, {
+        'edits': 232,
+        'ns': 0,
+        'id': 61884,
+        'title': 'List of novelists by nationality'
+    }, {
+        'edits': 224,
+        'ns': 0,
+        'id': 10678,
+        'title': 'List of French people'
+    }, {
+        'edits': 220,
+        'ns': 0,
+        'id': 97077,
+        'title': 'List of mathematics articles'
+    }, {
+        'edits': 218,
+        'ns': 0,
+        'id': 5635,
+        'title': 'Christopher Columbus'
+    }],
+    '2003': [{
+        'edits': 2072,
+        'ns': 0,
+        'id': 15580374,
+        'title': 'Main Page'
+    }, {
+        'edits': 826,
+        'ns': 0,
+        'id': 25422,
+        'title': 'Deaths in 2003'
+    }, {
+        'edits': 732,
+        'ns': 0,
+        'id': 292228,
+        'title': 'Timeline of computer and video games'
+    }, {
+        'edits': 690,
+        'ns': 0,
+        'id': 1095706,
+        'title': 'Jesus'
+    }, {
+        'edits': 646,
+        'ns': 0,
+        'id': 161521,
+        'title': '2003 in music'
+    }, {
+        'edits': 628,
+        'ns': 0,
+        'id': 645042,
+        'title': 'New York City'
+    }, {
+        'edits': 584,
+        'ns': 0,
+        'id': 160310,
+        'title': 'New Imperialism'
+    }, {
+        'edits': 562,
+        'ns': 0,
+        'id': 347105,
+        'title': 'Mother Teresa'
+    }, {
+        'edits': 555,
+        'ns': 0,
+        'id': 3414021,
+        'title': 'George W. Bush'
+    }, {
+        'edits': 539,
+        'ns': 0,
+        'id': 196741,
+        'title': 'Severe acute respiratory syndrome'
+    }],
+    '2004': [{
+        'edits': 5527,
+        'ns': 0,
+        'id': 3414021,
+        'title': 'George W. Bush'
+    }, {
+        'edits': 4183,
+        'ns': 0,
+        'id': 5122699,
+        'title': 'John Kerry'
+    }, {
+        'edits': 3188,
+        'ns': 0,
+        'id': 1328236,
+        'title': '2004 Indian Ocean earthquake and tsunami'
+    }, {
+        'edits': 2326,
+        'ns': 0,
+        'id': 417364,
+        'title': 'Deaths in 2004'
+    }, {
+        'edits': 2101,
+        'ns': 0,
+        'id': 12762115,
+        'title': 'Sexual slang'
+    }, {
+        'edits': 2076,
+        'ns': 0,
+        'id': 5004954,
+        'title': '2004 United States presidential election controversy and irregularities'
+    }, {
+        'edits': 1999,
+        'ns': 0,
+        'id': 25955086,
+        'title': 'Jews'
+    }, {
+        'edits': 1800,
+        'ns': 0,
+        'id': 2731583,
+        'title': 'Adolf Hitler'
+    }, {
+        'edits': 1771,
+        'ns': 0,
+        'id': 32851,
+        'title': 'Wiki'
+    }, {
+        'edits': 1712,
+        'ns': 0,
+        'id': 1095706,
+        'title': 'Jesus'
+    }],
+    '2005': [{
+        'edits': 20894,
+        'ns': 0,
+        'id': 3414021,
+        'title': 'George W. Bush'
+    }, {
+        'edits': 8808,
+        'ns': 0,
+        'id': 2569378,
+        'title': 'Hurricane Katrina'
+    }, {
+        'edits': 7860,
+        'ns': 0,
+        'id': 5043734,
+        'title': 'Wikipedia'
+    }, {
+        'edits': 6659,
+        'ns': 0,
+        'id': 2731583,
+        'title': 'Adolf Hitler'
+    }, {
+        'edits': 6519,
+        'ns': 0,
+        'id': 1095706,
+        'title': 'Jesus'
+    }, {
+        'edits': 6137,
+        'ns': 0,
+        'id': 670910,
+        'title': 'Terri Schiavo case'
+    }, {
+        'edits': 6035,
+        'ns': 0,
+        'id': 1142605,
+        'title': '2005 Atlantic hurricane season'
+    }, {
+        'edits': 5947,
+        'ns': 0,
+        'id': 39660,
+        'title': 'Pope Benedict XVI'
+    }, {
+        'edits': 5705,
+        'ns': 0,
+        'id': 3434750,
+        'title': 'United States'
+    }, {
+        'edits': 4997,
+        'ns': 0,
+        'id': 14995351,
+        'title': 'Michael Jackson'
+    }],
+    '2006': [{
+        'edits': 15067,
+        'ns': 0,
+        'id': 6299613,
+        'title': '2006 Lebanon War'
+    }, {
+        'edits': 13948,
+        'ns': 0,
+        'id': 3583320,
+        'title': 'Deaths in 2006'
+    }, {
+        'edits': 12735,
+        'ns': 0,
+        'id': 421853,
+        'title': 'Wii'
+    }, {
+        'edits': 12472,
+        'ns': 0,
+        'id': 5043734,
+        'title': 'Wikipedia'
+    }, {
+        'edits': 9440,
+        'ns': 0,
+        'id': 3434750,
+        'title': 'United States'
+    }, {
+        'edits': 9333,
+        'ns': 0,
+        'id': 251212,
+        'title': 'RuneScape'
+    }, {
+        'edits': 9293,
+        'ns': 0,
+        'id': 2337812,
+        'title': 'List of WWE personnel'
+    }, {
+        'edits': 9248,
+        'ns': 0,
+        'id': 157233,
+        'title': '2006 FIFA World Cup'
+    }, {
+        'edits': 8628,
+        'ns': 0,
+        'id': 24951,
+        'title': 'PlayStation 3'
+    }, {
+        'edits': 8116,
+        'ns': 0,
+        'id': 32927,
+        'title': 'World War II'
+    }],
+    '2007': [{
+        'edits': 18089,
+        'ns': 0,
+        'id': 8695791,
+        'title': 'Deaths in 2007'
+    }, {
+        'edits': 9825,
+        'ns': 0,
+        'id': 2337812,
+        'title': 'List of WWE personnel'
+    }, {
+        'edits': 9116,
+        'ns': 0,
+        'id': 10705678,
+        'title': 'Virginia Tech shooting'
+    }, {
+        'edits': 9048,
+        'ns': 0,
+        'id': 36165,
+        'title': '2007'
+    }, {
+        'edits': 7653,
+        'ns': 0,
+        'id': 776049,
+        'title': 'Harry Potter and the Deathly Hallows'
+    }, {
+        'edits': 6979,
+        'ns': 0,
+        'id': 6459333,
+        'title': '2007 in music'
+    }, {
+        'edits': 6371,
+        'ns': 0,
+        'id': 42930508,
+        'title': 'List of Ben 10 aliens'
+    }, {
+        'edits': 5934,
+        'ns': 0,
+        'id': 4132613,
+        'title': 'Blackout (Britney Spears album)'
+    }, {
+        'edits': 5743,
+        'ns': 0,
+        'id': 5207311,
+        'title': 'Heroes (TV series)'
+    }, {
+        'edits': 5738,
+        'ns': 0,
+        'id': 5789712,
+        'title': 'Thomas & Friends video releases'
+    }],
+    '2008': [{
+        'edits': 18969,
+        'ns': 0,
+        'id': 14976559,
+        'title': 'Deaths in 2008'
+    }, {
+        'edits': 10429,
+        'ns': 0,
+        'id': 2941511,
+        'title': 'Sarah Palin'
+    }, {
+        'edits': 9155,
+        'ns': 0,
+        'id': 35825,
+        'title': '2008'
+    }, {
+        'edits': 8698,
+        'ns': 0,
+        'id': 205565,
+        'title': 'List of United States political families'
+    }, {
+        'edits': 8193,
+        'ns': 0,
+        'id': 534366,
+        'title': 'Barack Obama'
+    }, {
+        'edits': 7982,
+        'ns': 0,
+        'id': 18762503,
+        'title': 'Russo-Georgian War'
+    }, {
+        'edits': 7598,
+        'ns': 0,
+        'id': 606848,
+        'title': 'Catholic Church'
+    }, {
+        'edits': 7296,
+        'ns': 0,
+        'id': 2337812,
+        'title': 'List of WWE personnel'
+    }, {
+        'edits': 6043,
+        'ns': 0,
+        'id': 14460545,
+        'title': 'FC Singen 04'
+    }, {
+        'edits': 5625,
+        'ns': 0,
+        'id': 4276475,
+        'title': 'The Dark Knight (film)'
+    }],
+    '2009': [{
+        'edits': 20678,
+        'ns': 0,
+        'id': 20901854,
+        'title': 'Deaths in 2009'
+    }, {
+        'edits': 10490,
+        'ns': 0,
+        'id': 20855562,
+        'title': 'Gaza War (2008\u201309)'
+    }, {
+        'edits': 7460,
+        'ns': 0,
+        'id': 22555940,
+        'title': '2009 flu pandemic'
+    }, {
+        'edits': 7008,
+        'ns': 0,
+        'id': 35983,
+        'title': '2009'
+    }, {
+        'edits': 5991,
+        'ns': 0,
+        'id': 879605,
+        'title': 'Chevrolet Vega'
+    }, {
+        'edits': 5595,
+        'ns': 0,
+        'id': 18696414,
+        'title': '2009 in music'
+    }, {
+        'edits': 5353,
+        'ns': 0,
+        'id': 15830654,
+        'title': 'Total Drama Action'
+    }, {
+        'edits': 5315,
+        'ns': 0,
+        'id': 3784152,
+        'title': 'List of programs broadcast by ABS-CBN'
+    }, {
+        'edits': 5011,
+        'ns': 0,
+        'id': 20641178,
+        'title': 'I Am... World Tour'
+    }, {
+        'edits': 4939,
+        'ns': 0,
+        'id': 16783562,
+        'title': 'Miss Universe 2009'
+    }],
+    '2010': [{
+        'edits': 20789,
+        'ns': 0,
+        'id': 25617081,
+        'title': 'Deaths in 2010'
+    }, {
+        'edits': 6109,
+        'ns': 0,
+        'id': 23166704,
+        'title': 'Miss Universe 2010'
+    }, {
+        'edits': 5881,
+        'ns': 0,
+        'id': 27550585,
+        'title': 'Gaza flotilla raid'
+    }, {
+        'edits': 5128,
+        'ns': 0,
+        'id': 27046954,
+        'title': 'Deepwater Horizon oil spill'
+    }, {
+        'edits': 4860,
+        'ns': 0,
+        'id': 1213838,
+        'title': 'Toy Story 3'
+    }, {
+        'edits': 4816,
+        'ns': 0,
+        'id': 25027868,
+        'title': '2010 Atlantic hurricane season'
+    }, {
+        'edits': 4524,
+        'ns': 0,
+        'id': 22754875,
+        'title': 'Tea Party movement'
+    }, {
+        'edits': 4395,
+        'ns': 0,
+        'id': 25804468,
+        'title': '2010 Haiti earthquake'
+    }, {
+        'edits': 4278,
+        'ns': 0,
+        'id': 24951893,
+        'title': 'Big Time Rush'
+    }, {
+        'edits': 4236,
+        'ns': 0,
+        'id': 17275600,
+        'title': '2010 in film'
+    }],
+    '2011': [{
+        'edits': 16283,
+        'ns': 0,
+        'id': 30246060,
+        'title': 'Deaths in 2011'
+    }, {
+        'edits': 9311,
+        'ns': 0,
+        'id': 30706524,
+        'title': 'Libyan Civil War (2011)'
+    }, {
+        'edits': 6470,
+        'ns': 0,
+        'id': 30625300,
+        'title': 'Egyptian Revolution of 2011'
+    }, {
+        'edits': 5339,
+        'ns': 0,
+        'id': 31150160,
+        'title': '2011 T\u014dhoku earthquake and tsunami'
+    }, {
+        'edits': 5245,
+        'ns': 0,
+        'id': 31162817,
+        'title': 'Fukushima Daiichi nuclear disaster'
+    }, {
+        'edits': 5236,
+        'ns': 0,
+        'id': 33121168,
+        'title': 'Occupy Wall Street'
+    }, {
+        'edits': 5112,
+        'ns': 0,
+        'id': 30655949,
+        'title': 'Arab Spring'
+    }, {
+        'edits': 4535,
+        'ns': 0,
+        'id': 26461435,
+        'title': 'List of 1000 Ways to Die episodes'
+    }, {
+        'edits': 4327,
+        'ns': 0,
+        'id': 345792,
+        'title': 'The Undertaker'
+    }, {
+        'edits': 4276,
+        'ns': 0,
+        'id': 27455867,
+        'title': 'American Idol (season 10)'
+    }],
+    '2012': [{
+        'edits': 17263,
+        'ns': 0,
+        'id': 34182971,
+        'title': 'Deaths in 2012'
+    }, {
+        'edits': 7760,
+        'ns': 0,
+        'id': 30741795,
+        'title': 'Syrian Civil War'
+    }, {
+        'edits': 5028,
+        'ns': 0,
+        'id': 36584679,
+        'title': 'Gangnam Style'
+    }, {
+        'edits': 5011,
+        'ns': 0,
+        'id': 31890787,
+        'title': 'American Idol (season 11)'
+    }, {
+        'edits': 4865,
+        'ns': 0,
+        'id': 16921964,
+        'title': '2012 in film'
+    }, {
+        'edits': 4619,
+        'ns': 0,
+        'id': 35072567,
+        'title': 'Shooting of Trayvon Martin'
+    }, {
+        'edits': 4295,
+        'ns': 0,
+        'id': 28048479,
+        'title': '2012 Atlantic hurricane season'
+    }, {
+        'edits': 4292,
+        'ns': 0,
+        'id': 20246201,
+        'title': 'Republican Party presidential primaries, 2012'
+    }, {
+        'edits': 4290,
+        'ns': 0,
+        'id': 36040580,
+        'title': 'Just Dance 4'
+    }, {
+        'edits': 4157,
+        'ns': 0,
+        'id': 37930067,
+        'title': 'Sandy Hook Elementary School shooting'
+    }],
+    '2013': [{
+        'edits': 22470,
+        'ns': 0,
+        'id': 38053955,
+        'title': 'Deaths in 2013'
+    }, {
+        'edits': 6077,
+        'ns': 0,
+        'id': 27120896,
+        'title': '2013 Pacific typhoon season'
+    }, {
+        'edits': 6005,
+        'ns': 0,
+        'id': 39120733,
+        'title': 'Boston Marathon bombing'
+    }, {
+        'edits': 5707,
+        'ns': 0,
+        'id': 37817659,
+        'title': 'List of works by Eug\xe8ne Guillaume'
+    }, {
+        'edits': 4522,
+        'ns': 0,
+        'id': 39626432,
+        'title': 'Edward Snowden'
+    }, {
+        'edits': 4410,
+        'ns': 0,
+        'id': 39630259,
+        'title': 'Just Dance 2014'
+    }, {
+        'edits': 3917,
+        'ns': 0,
+        'id': 34445585,
+        'title': 'American Idol (season 12)'
+    }, {
+        'edits': 3876,
+        'ns': 0,
+        'id': 38085598,
+        'title': 'Dancing with the Stars (U.S. season 16)'
+    }, {
+        'edits': 3521,
+        'ns': 0,
+        'id': 12824609,
+        'title': 'ATP World Tour records'
+    }, {
+        'edits': 3515,
+        'ns': 0,
+        'id': 1687680,
+        'title': 'Pope Francis'
+    }],
+    '2014': [{
+        'edits': 19957,
+        'ns': 0,
+        'id': 41480750,
+        'title': 'Deaths in 2014'
+    }, {
+        'edits': 10055,
+        'ns': 0,
+        'id': 42142305,
+        'title': 'Malaysia Airlines Flight 370'
+    }, {
+        'edits': 8234,
+        'ns': 0,
+        'id': 41656418,
+        'title': 'Japanese dissidence during the Sh\u014dwa period'
+    }, {
+        'edits': 7733,
+        'ns': 0,
+        'id': 42345073,
+        'title': 'Ebola virus epidemic in West Africa'
+    }, {
+        'edits': 7410,
+        'ns': 0,
+        'id': 9087364,
+        'title': 'Islamic State of Iraq and the Levant'
+    }, {
+        'edits': 6454,
+        'ns': 0,
+        'id': 43243199,
+        'title': '2014 Israel\u2013Gaza conflict'
+    }, {
+        'edits': 5998,
+        'ns': 0,
+        'id': 43529715,
+        'title': 'Shooting of Michael Brown'
+    }, {
+        'edits': 5081,
+        'ns': 0,
+        'id': 43326718,
+        'title': 'Malaysia Airlines Flight 17'
+    }, {
+        'edits': 5035,
+        'ns': 0,
+        'id': 27120898,
+        'title': '2014 Pacific typhoon season'
+    }, {
+        'edits': 4224,
+        'ns': 0,
+        'id': 37817659,
+        'title': 'List of works by Eug\xe8ne Guillaume'
+    }],
+    '2015': [{
+        'edits': 18271,
+        'ns': 0,
+        'id': 44789934,
+        'title': 'Deaths in 2015'
+    }, {
+        'edits': 7290,
+        'ns': 0,
+        'id': 44912104,
+        'title': 'Geospatial summary of the High Peaks/Summits of the Juneau Icefield'
+    }, {
+        'edits': 6147,
+        'ns': 0,
+        'id': 27120900,
+        'title': '2015 Pacific typhoon season'
+    }, {
+        'edits': 6085,
+        'ns': 0,
+        'id': 30008923,
+        'title': '2015 in sports'
+    }, {
+        'edits': 4892,
+        'ns': 0,
+        'id': 44969225,
+        'title': 'Charlie Hebdo shooting'
+    }, {
+        'edits': 4806,
+        'ns': 0,
+        'id': 43390986,
+        'title': 'Miss World 2015'
+    }, {
+        'edits': 4758,
+        'ns': 0,
+        'id': 12824609,
+        'title': 'ATP World Tour records'
+    }, {
+        'edits': 4576,
+        'ns': 0,
+        'id': 48545523,
+        'title': 'November 2015 Paris attacks'
+    }, {
+        'edits': 4328,
+        'ns': 0,
+        'id': 44629742,
+        'title': u "Asia's Next Top Model (cycle 3)"
+    }, {
+        'edits': 4317,
+        'ns': 0,
+        'id': 42655909,
+        'title': 'List of the works of Bastien and Henry Prigent'
+    }]
+}
